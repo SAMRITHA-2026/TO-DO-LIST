@@ -27,7 +27,8 @@ A sleek, responsive, and animated **To-Do List Web App** powered by `HTML`, `CSS
 
 | Home View | Add Task | My Day Filter |
 |----------|----------|----------------|
-| ![Home](./screenshots/home.png) | ![Add](./screenshots/add-task.png) | ![Filter](./screenshots/myday.png) |
+| ![image](https://github.com/user-attachments/assets/dca40348-5a1c-4ba5-bbae-94ef785a2861)
+| ![Add](./screenshots/add-task.png) | ![Filter](./screenshots/myday.png) |
 
 ---
 
