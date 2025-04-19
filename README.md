@@ -51,6 +51,11 @@ A sleek, responsive, and animated **To-Do List Web App** powered by `HTML`, `CSS
 
 ---
 
+## 🎥 Working Demo
+
+📽️ [Click here to download and watch the demo video](./Working_Demo.mp4)
+
+
 ## 📁 Folder Structure
 
 ```bash
@@ -60,13 +65,5 @@ A sleek, responsive, and animated **To-Do List Web App** powered by `HTML`, `CSS
  ┣ 📄 script.js
  ┗ 📁 img/
      ┗ profile.jpg
-
-## 🎥 Working Demo
-
-📽️ [Click here to download and watch the demo video](./Working_Demo.mp4)
-
-## 🎥 Working Demo
-
-[Download and watch the demo](./Working%20Demo.mp4)
-
+---
 
