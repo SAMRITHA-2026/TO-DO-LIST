@@ -25,12 +25,18 @@ A sleek, responsive, and animated **To-Do List Web App** powered by `HTML`, `CSS
 
 ## 📸 Screenshots
 
-| Home View | Add Task | My Day Filter |
-|----------|----------|----------------|
-| ![image](https://github.com/user-attachments/assets/dca40348-5a1c-4ba5-bbae-94ef785a2861)
-| ![Screenshot 2025-04-19 125838](https://github.com/user-attachments/assets/fde77c3c-eafd-4f56-af60-c74699089eda)
- | ![image](https://github.com/user-attachments/assets/1f133495-d0ac-4c6f-9862-f5d7864916e4)
- |
+| Home View | 
+|----------|
+| ![image](https://github.com/user-attachments/assets/dca40348-5a1c-4ba5-bbae-94ef785a2861)|
+
+| Add Task | 
+|----------|
+| ![Screenshot 2025-04-19 125838](https://github.com/user-attachments/assets/fde77c3c-eafd-4f56-af60-c74699089eda) | 
+
+| My Day Filter |
+|----------|
+| ![image](https://github.com/user-attachments/assets/1f133495-d0ac-4c6f-9862-f5d7864916e4) |
+
 
 ---
 
